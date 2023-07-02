@@ -19,3 +19,8 @@
 
 ### ABOUT ME
 I am a junior front-end developer.
+
+### WORK EXPERIENCE
+- Plant Waterer
+\
+World | 2010 - 2023
